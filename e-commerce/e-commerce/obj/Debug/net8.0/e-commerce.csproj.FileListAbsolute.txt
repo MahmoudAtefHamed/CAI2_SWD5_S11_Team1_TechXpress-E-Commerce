@@ -147,3 +147,9 @@ C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-co
 C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce\obj\Debug\net8.0\e-commerce.pdb
 C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce\obj\Debug\net8.0\e-commerce.genruntimeconfig.cache
 C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce\obj\Debug\net8.0\ref\e-commerce.dll
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce\bin\Debug\net8.0\e-commerce.Core.dll
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce\bin\Debug\net8.0\e-commerce.Service.dll
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce\bin\Debug\net8.0\e-commerce.Service.pdb
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce\bin\Debug\net8.0\e-commerce.Core.pdb
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce\bin\Debug\net8.0\e-commerce.Infrastructure.dll
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce\bin\Debug\net8.0\e-commerce.Infrastructure.pdb

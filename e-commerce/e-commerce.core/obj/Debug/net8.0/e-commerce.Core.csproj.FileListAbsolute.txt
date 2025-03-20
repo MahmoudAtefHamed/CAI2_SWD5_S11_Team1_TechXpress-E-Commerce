@@ -1,0 +1,12 @@
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.core\bin\Debug\net8.0\e-commerce.Core.deps.json
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.core\bin\Debug\net8.0\e-commerce.Core.dll
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.core\bin\Debug\net8.0\e-commerce.Core.pdb
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.core\obj\Debug\net8.0\e-commerce.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.core\obj\Debug\net8.0\e-commerce.Core.AssemblyInfoInputs.cache
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.core\obj\Debug\net8.0\e-commerce.Core.AssemblyInfo.cs
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.core\obj\Debug\net8.0\e-commerce.Core.csproj.CoreCompileInputs.cache
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.core\obj\Debug\net8.0\e-commerce.Core.sourcelink.json
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.core\obj\Debug\net8.0\e-commerce.Core.dll
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.core\obj\Debug\net8.0\refint\e-commerce.Core.dll
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.core\obj\Debug\net8.0\e-commerce.Core.pdb
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.core\obj\Debug\net8.0\ref\e-commerce.Core.dll

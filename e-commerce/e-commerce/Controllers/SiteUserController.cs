@@ -1,19 +1,34 @@
 ﻿using e_commerce.Models;
+using e_commerce.Service.Interfaces;
 using Microsoft.AspNetCore.Mvc;
 
 namespace e_commerce.Controllers
 {
     public class SiteUserController : Controller
     {
-        Entity context = new Entity();
-        // Get All Users
-        public IActionResult Index()
+
+        private readonly ISiteUserService _userService;
+        public SiteUserController(ISiteUserService userService)
         {
-            List<Site_User> usersModel = context.SiteUsers.ToList();
-            return View(usersModel);
+            _userService = userService ?? throw new ArgumentNullException(nameof(userService));
         }
 
-        // Add New SiteUser 
+
+        public async Task<IActionResult> Index()
+        {
+            var users = await _userService.GetAllUsers();
+            return View(users);
+        }
+
+        //  SiteUser Details
+        public async Task<IActionResult> Details(int id)
+        {
+            var user = await _userService.GetUserById(id);
+            if (user == null) return NotFound();
+            return View(user);
+        }
+
+        //// Add New SiteUser 
 
         public IActionResult New()
         {
@@ -21,49 +36,66 @@ namespace e_commerce.Controllers
         }
 
         [HttpPost]
-        public IActionResult SaveNew(Site_User user)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> SaveNew(Site_User user)
         {
             if (ModelState.IsValid)
             {
-                context.Add(user);
-                context.SaveChanges();
+                await _userService.AddUser(user);
                 return RedirectToAction("Index");
             }
             return View("New",user);
         }
 
         // Edit SiteUser Info
-        public IActionResult Edit(int id)
+        public async Task<IActionResult> Edit(int id)
         {
-            Site_User userOldVersion = context.SiteUsers.FirstOrDefault(u => u.Id == id);
-            return View(userOldVersion);
+            var user = await _userService.GetUserById(id);
+            if (user == null) return NotFound();
+            return View(user);
         }
         [HttpPost]
-        public IActionResult SaveEdit(Site_User user , int id)
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> SaveEdit(Site_User user , int id)
         {
-            if(ModelState.IsValid)
+            if (id != user.Id) return BadRequest();
+            if (ModelState.IsValid)
             {
-                Site_User userOldVersion = context.SiteUsers.FirstOrDefault(u=>u.Id == id);
-                userOldVersion.EmailAddress = user.EmailAddress;
-                userOldVersion.PhoneNumber = user.PhoneNumber;
-                userOldVersion.Password = user.Password;
-                context.SaveChanges();
+                await _userService.UpdateUser(user);
                 return RedirectToAction("Index");
             }
             return View("Edit", user);
         }
 
-        // delete user
-        public IActionResult Delete(int id)
+        // Delete user
+        public async Task<IActionResult> Delete(int id)
         {
-            Site_User siteUser = context.SiteUsers.FirstOrDefault(u=>u.Id==id);
-            if (siteUser != null)
-            {
-                context.SiteUsers.Remove(siteUser);
-                context.SaveChanges();
-            }
+            var user = await _userService.GetUserById(id);
+            if (user == null) return NotFound();
+            return View(user);
+        }
+
+        // Delete Confirmed ( delete it from data base )
+        //[HttpPost, ActionName("Delete")]
+        [ValidateAntiForgeryToken]
+        public async Task<IActionResult> DeleteConfirmed(int id)
+        {
+            await _userService.DeleteUser(id);
             return RedirectToAction("Index");
         }
+
+
+        //// delete user
+        //public IActionResult Delete(int id)
+        //{
+        //    Site_User siteUser = context.SiteUsers.FirstOrDefault(u=>u.Id==id);
+        //    if (siteUser != null)
+        //    {
+        //        context.SiteUsers.Remove(siteUser);
+        //        context.SaveChanges();
+        //    }
+        //    return RedirectToAction("Index");
+        //}
 
     }
 }

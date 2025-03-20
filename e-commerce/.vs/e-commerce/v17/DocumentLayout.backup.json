@@ -3,8 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AE846ABA-6932-4102-AE26-AE9D3C18B793}|e-commerce.core\\e-commerce.Core.csproj|c:\\users\\matf7\\desktop\\cai2_swd5_s11_team1_techxpress-e-commerce\\e-commerce\\e-commerce.core\\models\\site-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AE846ABA-6932-4102-AE26-AE9D3C18B793}|e-commerce.core\\e-commerce.Core.csproj|solutionrelative:e-commerce.core\\models\\site-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|c:\\users\\matf7\\desktop\\cai2_swd5_s11_team1_techxpress-e-commerce\\e-commerce\\e-commerce\\views\\siteuser\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\views\\siteuser\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|c:\\users\\matf7\\desktop\\cai2_swd5_s11_team1_techxpress-e-commerce\\e-commerce\\e-commerce\\views\\siteuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\views\\siteuser\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|c:\\users\\matf7\\desktop\\cai2_swd5_s11_team1_techxpress-e-commerce\\e-commerce\\e-commerce\\views\\siteuser\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\views\\siteuser\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|c:\\users\\matf7\\desktop\\cai2_swd5_s11_team1_techxpress-e-commerce\\e-commerce\\e-commerce\\views\\siteuser\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -15,12 +27,12 @@
       "RelativeMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\views\\siteuser\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|c:\\users\\matf7\\desktop\\cai2_swd5_s11_team1_techxpress-e-commerce\\e-commerce\\e-commerce\\controllers\\siteusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\controllers\\siteusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{25176BBA-D382-40E0-8BFE-38DCD895F999}|e-commerce.Infrastructure\\e-commerce.Infrastructure.csproj|c:\\users\\matf7\\desktop\\cai2_swd5_s11_team1_techxpress-e-commerce\\e-commerce\\e-commerce.infrastructure\\repositories\\siteuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{25176BBA-D382-40E0-8BFE-38DCD895F999}|e-commerce.Infrastructure\\e-commerce.Infrastructure.csproj|solutionrelative:e-commerce.infrastructure\\repositories\\siteuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|c:\\users\\matf7\\desktop\\cai2_swd5_s11_team1_techxpress-e-commerce\\e-commerce\\e-commerce\\models\\site-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\models\\site-user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|c:\\users\\matf7\\desktop\\cai2_swd5_s11_team1_techxpress-e-commerce\\e-commerce\\e-commerce\\controllers\\siteusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F63C15A4-340E-40B6-83E5-16B03631DBAB}|e-commerce\\e-commerce.csproj|solutionrelative:e-commerce\\controllers\\siteusercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -35,66 +47,105 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\Index.cshtml",
-              "RelativeDocumentMoniker": "e-commerce\\Views\\SiteUser\\Index.cshtml",
-              "ToolTip": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\Index.cshtml*",
-              "RelativeToolTip": "e-commerce\\Views\\SiteUser\\Index.cshtml*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAXAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T01:19:38.157Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\Edit.cshtml",
-              "RelativeDocumentMoniker": "e-commerce\\Views\\SiteUser\\Edit.cshtml",
-              "ToolTip": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\Edit.cshtml",
-              "RelativeToolTip": "e-commerce\\Views\\SiteUser\\Edit.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACAAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T01:04:18.527Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "New.cshtml",
-              "DocumentMoniker": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\New.cshtml",
-              "RelativeDocumentMoniker": "e-commerce\\Views\\SiteUser\\New.cshtml",
-              "ToolTip": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\New.cshtml",
-              "RelativeToolTip": "e-commerce\\Views\\SiteUser\\New.cshtml",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-03-20T00:45:30.623Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
               "Title": "Site-User.cs",
-              "DocumentMoniker": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Models\\Site-User.cs",
-              "RelativeDocumentMoniker": "e-commerce\\Models\\Site-User.cs",
-              "ToolTip": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Models\\Site-User.cs",
-              "RelativeToolTip": "e-commerce\\Models\\Site-User.cs",
-              "ViewState": "AgIAAAwAAAAAAAAAAAAYwA4AAABpAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce.core\\Models\\Site-User.cs",
+              "RelativeDocumentMoniker": "e-commerce.core\\Models\\Site-User.cs",
+              "ToolTip": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce.core\\Models\\Site-User.cs*",
+              "RelativeToolTip": "e-commerce.core\\Models\\Site-User.cs*",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwBMAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T00:36:24.848Z",
+              "WhenOpened": "2025-03-20T20:01:21.579Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 6,
+              "Title": "SiteUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce.Infrastructure\\Repositories\\SiteUserRepository.cs",
+              "RelativeDocumentMoniker": "e-commerce.Infrastructure\\Repositories\\SiteUserRepository.cs",
+              "ToolTip": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce.Infrastructure\\Repositories\\SiteUserRepository.cs",
+              "RelativeToolTip": "e-commerce.Infrastructure\\Repositories\\SiteUserRepository.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAuwDEAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-03-20T19:56:14.873Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
               "Title": "SiteUserController.cs",
               "DocumentMoniker": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Controllers\\SiteUserController.cs",
               "RelativeDocumentMoniker": "e-commerce\\Controllers\\SiteUserController.cs",
               "ToolTip": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Controllers\\SiteUserController.cs",
               "RelativeToolTip": "e-commerce\\Controllers\\SiteUserController.cs",
-              "ViewState": "AgIAACUAAAAAAAAAAAAkwCYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAAEYAAAAAAAAAAAAwwFIAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-20T00:30:49.791Z",
+              "WhenOpened": "2025-03-20T19:48:08.534Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\New.cshtml",
+              "RelativeDocumentMoniker": "e-commerce\\Views\\SiteUser\\New.cshtml",
+              "ToolTip": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\New.cshtml",
+              "RelativeToolTip": "e-commerce\\Views\\SiteUser\\New.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T19:46:18.377Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\Edit.cshtml",
+              "RelativeDocumentMoniker": "e-commerce\\Views\\SiteUser\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\Edit.cshtml",
+              "RelativeToolTip": "e-commerce\\Views\\SiteUser\\Edit.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAABwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T19:45:52.469Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\Details.cshtml",
+              "RelativeDocumentMoniker": "e-commerce\\Views\\SiteUser\\Details.cshtml",
+              "ToolTip": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\Details.cshtml",
+              "RelativeToolTip": "e-commerce\\Views\\SiteUser\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T19:37:20.18Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\Index.cshtml",
+              "RelativeDocumentMoniker": "e-commerce\\Views\\SiteUser\\Index.cshtml",
+              "ToolTip": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\Index.cshtml",
+              "RelativeToolTip": "e-commerce\\Views\\SiteUser\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T19:34:26.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\Delete.cshtml",
+              "RelativeDocumentMoniker": "e-commerce\\Views\\SiteUser\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\matf7\\Desktop\\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\\e-commerce\\e-commerce\\Views\\SiteUser\\Delete.cshtml",
+              "RelativeToolTip": "e-commerce\\Views\\SiteUser\\Delete.cshtml",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA8AAAA0AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-03-20T19:33:40.334Z",
               "EditorCaption": ""
             }
           ]

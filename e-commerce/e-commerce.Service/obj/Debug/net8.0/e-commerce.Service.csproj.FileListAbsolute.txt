@@ -1,0 +1,16 @@
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\bin\Debug\net8.0\e-commerce.Service.deps.json
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\bin\Debug\net8.0\e-commerce.Service.dll
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\bin\Debug\net8.0\e-commerce.Service.pdb
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\bin\Debug\net8.0\e-commerce.Core.dll
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\bin\Debug\net8.0\e-commerce.Core.pdb
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\obj\Debug\net8.0\e-commerce.Service.csproj.AssemblyReference.cache
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\obj\Debug\net8.0\e-commerce.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\obj\Debug\net8.0\e-commerce.Service.AssemblyInfoInputs.cache
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\obj\Debug\net8.0\e-commerce.Service.AssemblyInfo.cs
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\obj\Debug\net8.0\e-commerce.Service.csproj.CoreCompileInputs.cache
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\obj\Debug\net8.0\e-commerce.Service.sourcelink.json
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\obj\Debug\net8.0\e-commer.2AE31AB6.Up2Date
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\obj\Debug\net8.0\e-commerce.Service.dll
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\obj\Debug\net8.0\refint\e-commerce.Service.dll
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\obj\Debug\net8.0\e-commerce.Service.pdb
+C:\Users\matf7\Desktop\CAI2_SWD5_S11_Team1_TechXpress-E-Commerce\e-commerce\e-commerce.Service\obj\Debug\net8.0\ref\e-commerce.Service.dll

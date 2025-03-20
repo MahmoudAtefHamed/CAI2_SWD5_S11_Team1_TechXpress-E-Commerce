@@ -1,3 +1,10 @@
+using e_commerce.core.Interfaces;
+using e_commerce.Service.Interfaces;
+using e_commerce.Service.Services;
+using e_commerce.Infrastructure.Repositories;
+using Microsoft.EntityFrameworkCore;
+using e_commerce.Models;
+
 namespace e_commerce
 {
     public class Program
@@ -9,6 +16,13 @@ namespace e_commerce
             // Add services to the container.
             builder.Services.AddControllersWithViews();
 
+            #region new in Program
+            builder.Services.AddScoped<ISiteUserRepository, SiteUserRepository>();
+            builder.Services.AddScoped<ISiteUserService, SiteUserService>();
+            builder.Services.AddDbContext<Entity>(options =>
+    options.UseSqlServer(builder.Configuration.GetConnectionString("Server=DESKTOP-MV2T7M8\\SQLEXPRESS;Database=DEPIDataBase;Trusted_Connection=True;TrustServerCertificate=True")));
+
+            #endregion
             var app = builder.Build();
 
             // Configure the HTTP request pipeline.
